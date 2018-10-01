@@ -11,7 +11,6 @@ import WebKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var searchBar: UISearchBar!
     @IBOutlet weak var myWebView: WKWebView!
     
     @IBAction func back(_ sender: Any) {
